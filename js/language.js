@@ -1,0 +1,1 @@
+function changeLanguage(n){n.preventDefault(),"RU"===langTitle.innerHTML.toUpperCase()?langTitle.innerHTML="EN":langTitle.innerHTML="RU"}changeLanguageButton.addEventListener("click",(n=>{changeLanguage(n)}));

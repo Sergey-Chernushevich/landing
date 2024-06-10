@@ -1,0 +1,12 @@
+:root {
+  --primaryColor: #f97247;
+  --secondaryColor: #ffffff;
+  --secondaryDarkColor: #ebf29d;
+  --thirdColor: #191d0a;
+  --fourthColor: #311212;
+  --fontFamily: "Lexend", sans-serif;
+  --secondfontFamily: "Futura PT", sans-serif;
+  --thirdFamily: "Indie Flower", sans-serif;
+  --font3: "Inter", sans-serif;
+  --transitionTime: 0.4s;
+}
