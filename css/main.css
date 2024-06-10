@@ -249,17 +249,7 @@ body {
   margin-left: 14px;
 }
 
-.header-menuButton.lang a {
-  height: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.header-menuButton.lang a .langTitle {
+.header-menuButton.lang .langTitle {
   margin-left: 9px;
 }
 

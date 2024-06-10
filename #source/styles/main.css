@@ -200,13 +200,7 @@ body {
   margin-left: 14px;
 }
 
-.header-menuButton.lang a {
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.header-menuButton.lang a .langTitle {
+.header-menuButton.lang .langTitle {
   margin-left: 9px;
 }
 
