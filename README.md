@@ -1,1 +1,1 @@
-# https://sergey-chernushevich.github.io/testlanding/
+# https://sergey-chernushevich.github.io/landing/
