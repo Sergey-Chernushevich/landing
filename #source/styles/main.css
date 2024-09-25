@@ -295,6 +295,7 @@ body {
   margin: 0 auto;
   height: 960px;
   position: relative;
+  padding-bottom: 130px;
 }
 
 .content {
@@ -521,6 +522,9 @@ body {
   justify-content: space-between;
   align-items: end;
   z-index: 100;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 .footer .links {
